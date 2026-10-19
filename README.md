@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in C++.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jainishita500-tech/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/jainishita500-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jainishita500-tech/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -34,10 +35,12 @@ My LeetCode solutions and DSA practice in C++.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |

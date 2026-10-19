@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in C++.
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/jainishita500-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/jainishita500-tech/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jainishita500-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jainishita500-tech/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->

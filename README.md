@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jainishita500-tech/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/jainishita500-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/jainishita500-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -46,4 +47,8 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/jainishita500-tech/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/jainishita500-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->

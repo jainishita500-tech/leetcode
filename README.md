@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jainishita500-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/jainishita500-tech/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,8 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/jainishita500-tech/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->

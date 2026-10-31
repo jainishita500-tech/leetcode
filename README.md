@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice in C++.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/jainishita500-tech/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -53,4 +54,8 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/jainishita500-tech/leetcode/tree/main/0066-plus-one/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->

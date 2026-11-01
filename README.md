@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice in C++.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jainishita500-tech/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/jainishita500-tech/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -57,6 +58,7 @@ My LeetCode solutions and DSA practice in C++.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jainishita500-tech/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/jainishita500-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 ## Recursion

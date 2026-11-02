@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jainishita500-tech/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0054-spiral-matrix](https://github.com/jainishita500-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/jainishita500-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -65,4 +66,12 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jainishita500-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jainishita500-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jainishita500-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->

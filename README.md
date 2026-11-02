@@ -64,6 +64,7 @@ My LeetCode solutions and DSA practice in C++.
 | [0024-swap-nodes-in-pairs](https://github.com/jainishita500-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/jainishita500-tech/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

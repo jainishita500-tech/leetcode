@@ -55,6 +55,7 @@ My LeetCode solutions and DSA practice in C++.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/jainishita500-tech/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/jainishita500-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

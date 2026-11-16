@@ -42,6 +42,7 @@ My LeetCode solutions and DSA practice in C++.
 | [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/jainishita500-tech/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/jainishita500-tech/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jainishita500-tech/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ My LeetCode solutions and DSA practice in C++.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jainishita500-tech/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/jainishita500-tech/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/jainishita500-tech/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

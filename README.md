@@ -65,6 +65,7 @@ My LeetCode solutions and DSA practice in C++.
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jainishita500-tech/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/jainishita500-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/jainishita500-tech/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/jainishita500-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jainishita500-tech/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jainishita500-tech/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -77,6 +78,7 @@ My LeetCode solutions and DSA practice in C++.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jainishita500-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/jainishita500-tech/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
